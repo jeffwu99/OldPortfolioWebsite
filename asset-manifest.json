@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PortfolioWebsite/static/css/main.4a87b871.css",
+    "main.js": "/PortfolioWebsite/static/js/main.dea502d9.js",
+    "static/js/787.d1d4a2c2.chunk.js": "/PortfolioWebsite/static/js/787.d1d4a2c2.chunk.js",
+    "static/media/screenshot2_3.PNG": "/PortfolioWebsite/static/media/screenshot2_3.a041d5ffde1c44d796bb.PNG",
+    "static/media/Ferrari.png": "/PortfolioWebsite/static/media/Ferrari.e666ace612d2fc9e859a.png",
+    "static/media/screenshot1.PNG": "/PortfolioWebsite/static/media/screenshot1.957ff18274e164f8f0f4.PNG",
+    "static/media/screenshot3.PNG": "/PortfolioWebsite/static/media/screenshot3.07bb822f72ecc7edb548.PNG",
+    "static/media/screenshot2_4.PNG": "/PortfolioWebsite/static/media/screenshot2_4.0e941a0780c62f8ec45a.PNG",
+    "static/media/screenshot2_2.PNG": "/PortfolioWebsite/static/media/screenshot2_2.0a4d09e4454769007351.PNG",
+    "static/media/linkedInCropped.png": "/PortfolioWebsite/static/media/linkedInCropped.658ae374d68f44aea00a.png",
+    "static/media/screenshot2_1.PNG": "/PortfolioWebsite/static/media/screenshot2_1.fd38e6459b331354f35f.PNG",
+    "index.html": "/PortfolioWebsite/index.html",
+    "main.4a87b871.css.map": "/PortfolioWebsite/static/css/main.4a87b871.css.map",
+    "main.dea502d9.js.map": "/PortfolioWebsite/static/js/main.dea502d9.js.map",
+    "787.d1d4a2c2.chunk.js.map": "/PortfolioWebsite/static/js/787.d1d4a2c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a87b871.css",
+    "static/js/main.dea502d9.js"
+  ]
+}
